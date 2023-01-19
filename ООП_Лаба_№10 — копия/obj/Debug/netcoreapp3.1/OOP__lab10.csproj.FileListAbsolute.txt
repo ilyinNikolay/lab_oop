@@ -1,0 +1,28 @@
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.csproj.AssemblyReference.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.AssemblyInfoInputs.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.AssemblyInfo.cs
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.csproj.CoreCompileInputs.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\bin\Debug\netcoreapp3.1\OOP__lab10.exe
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\bin\Debug\netcoreapp3.1\OOP__lab10.deps.json
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\bin\Debug\netcoreapp3.1\OOP__lab10.runtimeconfig.json
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\bin\Debug\netcoreapp3.1\OOP__lab10.runtimeconfig.dev.json
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\bin\Debug\netcoreapp3.1\OOP__lab10.dll
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\bin\Debug\netcoreapp3.1\OOP__lab10.pdb
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.dll
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.pdb
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10\obj\Debug\netcoreapp3.1\OOP__lab10.genruntimeconfig.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.csproj.AssemblyReference.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.AssemblyInfoInputs.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.AssemblyInfo.cs
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.csproj.CoreCompileInputs.cache
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.dll
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.pdb
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\bin\Debug\netcoreapp3.1\OOP__lab10.exe
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\bin\Debug\netcoreapp3.1\OOP__lab10.deps.json
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\bin\Debug\netcoreapp3.1\OOP__lab10.runtimeconfig.json
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\bin\Debug\netcoreapp3.1\OOP__lab10.runtimeconfig.dev.json
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\bin\Debug\netcoreapp3.1\OOP__lab10.dll
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\bin\Debug\netcoreapp3.1\OOP__lab10.pdb
+C:\Users\KolManis\OneDrive\Рабочий стол\ООП\ООП_Лаба_№10 — копия\obj\Debug\netcoreapp3.1\OOP__lab10.genruntimeconfig.cache
